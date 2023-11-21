@@ -19,7 +19,7 @@ int main()
             }
             else if(n==numsSize-1)
             {
-                a=nums[i];
+                a=nums[i+1];
             }
         }
     }
